@@ -23,6 +23,7 @@ echo ("数量:" . $quantity . "個<br>");
 echo ("小計:" . $subtotal . "円<br>");
 echo ("消費税(10%):" . $tax_amount . "円<br>");
 echo ("合計金額:" . $total . "円<br>");
+
 ?>
 
 </body>
